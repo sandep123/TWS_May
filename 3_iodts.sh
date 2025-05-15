@@ -1,5 +1,7 @@
 #!/bin/bash
+<<help
 
+help
 
 hero="rencho"
 villian="virus"
