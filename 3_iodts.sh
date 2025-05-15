@@ -1,5 +1,7 @@
 #!/bin/bash
-
+<<help
+ this is bacic shell script which we ahve created for uou rlearing  purpose
+help
 
 hero="rencho"
 villian="virus"
